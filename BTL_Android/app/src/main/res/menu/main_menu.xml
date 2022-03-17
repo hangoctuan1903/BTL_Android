@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/quanly"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="quản lý"/>
+    <item
+        android:id="@+id/poss"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:title="đăng tin"/>
+    <item
+        android:id="@+id/thongbao"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="Thông báo"/>
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:title="Thêm"/>
+
+
+</menu>
