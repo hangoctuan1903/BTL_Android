@@ -107,6 +107,7 @@
             android:hint="Nhập số điện thoại"
             android:paddingLeft="70dp"
             android:paddingTop="20dp"
+            android:inputType="number"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"

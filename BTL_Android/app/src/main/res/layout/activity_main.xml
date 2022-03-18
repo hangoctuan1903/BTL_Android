@@ -5,15 +5,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+
     <androidx.appcompat.widget.SearchView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+<<<<<<< HEAD
+        android:layout_height="wrap_content" />
+=======
+        android:layout_height="65dp" />
+>>>>>>> 36f862baaeda41017e6ff02e731c85dba8fbf2d7
 
     <FrameLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_above="@id/bottomnavi"/>
+<<<<<<< HEAD
+        android:layout_height="624dp"
+=======
+        android:layout_height="604dp"
+>>>>>>> 36f862baaeda41017e6ff02e731c85dba8fbf2d7
+        android:layout_above="@id/bottomnavi" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomnavi"
